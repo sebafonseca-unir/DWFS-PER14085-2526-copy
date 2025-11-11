@@ -20,33 +20,19 @@ This is a personal online CV that showcases professional information including w
 CV/
 ├── index.html         # Main HTML file with CV content
 ├── styles.css         # CSS stylesheet with all styling
-├── profile-photo.jpg  # Profile photo (add your own photo)
+├── profile-photo.jpg  # Profile photo
 └── README.md          # This file
 ```
 
 ## How to Use
 
 1. Clone or download this repository
-2. Add your profile photo: Place a photo named `profile-photo.jpg` in the CV folder (recommended size: 300x300px or larger, square format works best)
-3. Open `index.html` in any modern web browser
-4. Customize the content with your personal information
-
-## Customization
-
-### Updating Content
-
-Edit `index.html` to replace placeholder content with your actual information:
-- Personal details (name, contact information)
-- Work experience
-- Education
-- Skills
-- Languages
-- Certifications
+2. Open `index.html` in any modern web browser
 
 ### Adding Profile Photo
 
 1. Save your profile photo in the CV folder
-2. Name it `profile-photo.jpg` (or update the filename in `index.html` line 14)
+2. Name it `profile-photo.jpg` (or update the filename in `index.html`)
 3. Recommended: Square format, minimum 300x300px for best quality
 4. The photo will be automatically styled as a circular image in the header
 
@@ -83,8 +69,4 @@ This project is open source and available for personal use. Feel free to modify 
 ## Author
 
 Sebastian Fonseca
-
----
-
-**Note**: Remember to update all placeholder information with your actual professional details before publishing or sharing your CV.
 
